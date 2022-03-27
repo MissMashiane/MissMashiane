@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MissMashiane
+- 👋 Hi, I’m MissMashiane
 - 👀 I’m interested in learning programming and creating softwares
 - 🌱 I’m currently learning MySQL
 - 💞️ I’m looking to collaborate on App creation
